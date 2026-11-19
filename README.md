@@ -30,6 +30,8 @@ Estados: `borrador` → `en pruebas` → `final`
 | Dissection · Storm of the Light's Bane | [Rhythm](presets/dissection-storm/rhythm.md) | Guitarra | borrador | 73 |
 | Dissection · Storm of the Light's Bane | [Lead](presets/dissection-storm/lead.md) | Guitarra | borrador | 73 |
 | Dissection · Storm of the Light's Bane | [Clean](presets/dissection-storm/clean.md) | Guitarra | borrador | 73 |
+| Satyricon · Nemesis Divina | [Mother North](presets/satyricon-nemesis-divina/mother-north.md) | Guitarra | borrador | 73 |
+| Satyricon · Nemesis Divina | [Clean](presets/satyricon-nemesis-divina/clean.md) | Guitarra | borrador | 73 |
 
 ## Flujo de trabajo
 

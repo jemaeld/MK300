@@ -33,6 +33,8 @@ Estados: `borrador` → `en pruebas` → `final`
 | Dissection · Storm of the Light's Bane | [Clean](presets/dissection-storm/clean.md) | Guitarra | borrador | 73 |
 | Satyricon · Nemesis Divina | [Mother North](presets/satyricon-nemesis-divina/mother-north.md) | Guitarra | borrador | 73 |
 | Satyricon · Nemesis Divina | [Clean](presets/satyricon-nemesis-divina/clean.md) | Guitarra | borrador | 73 |
+| Satyricon · The Shadowthrone (In the Mist by the Hills) | [Distorsión](presets/satyricon-shadowthrone/distorsion.md) | Guitarra | borrador | 73 |
+| Satyricon · The Shadowthrone (In the Mist by the Hills) | [Acústica / limpio](presets/satyricon-shadowthrone/acustica-limpia.md) | Guitarra | borrador | 73 |
 | Opeth · Orchid | [Distorsión](presets/opeth-orchid/distorsion.md) | Guitarra | borrador | 73 |
 | Opeth · Orchid | [Clean](presets/opeth-orchid/clean.md) | Guitarra | borrador | 73 |
 

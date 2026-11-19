@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-18 (4)
+- Nuevo: Satyricon · *The Shadowthrone* — "In the Mist by the Hills" (distorsión y acústica/limpio), solo con modelos del firmware 73, sin TONE3000.
+
 ## 2026-11-18 (3)
 - Nueva sección **Alternativa TONE3000 (NAM)** en todos los presets, más `docs/TONE3000.md` y el paso 2.3 en el prompt.
 - Dissection: alternativas NAM para JCM 900 4100 y Boss DS-2.

@@ -28,6 +28,16 @@
 - **Más brillante:** Treble 60, Bright 40.
 - **Volumen entre presets:** si el limpio suena más fuerte que el distorsionado, bajar el Level del amp a 40 (las EMG activas ya tienen mucha salida).
 
+## Alternativa TONE3000 (NAM)
+| Bloque | Buscar en TONE3000 | Autor / tipo | ESR (Full / Lite) | Enlace |
+|---|---|---|---|---|
+| AMP + CAB | "Marshall JCM 900 Ch A Full Rig" | obijuan · Full Rig, JCM 900 4100 Dual Reverb, canal A (apagar CAB) | 0.0028 y 0.0009 / 0.0144 y 0.0108 | https://www.tone3000.com/tones/marshall-jcm-900-ch-a-full-rig-69936 |
+
+- El pack tiene varias capturas, una con boost. Probar la no boosteada para el limpio.
+- Verificar al descargar que incluya un ajuste limpio; la descripción no lo detalla.
+
+Verificado: 2026-11-18.
+
 ## Cambios
 | Fecha | Cambio | Motivo |
 |---|---|---|

@@ -27,6 +27,19 @@
 - **Afinación:** una página de tablaturas la da en Drop D, sin confirmar con fuente oficial. Verificar de oído.
 - **Gate:** el original no usaba pedales; el gate es una concesión para las EMG activas.
 
+## Alternativa TONE3000 (NAM)
+No encontré una captura con distorsión del Fender Performer 1000. Opciones cercanas por carácter (medios marcados, sin pedales):
+
+| Bloque | Buscar en TONE3000 | Autor / tipo | ESR (Full / Lite) | Enlace |
+|---|---|---|---|---|
+| AMP + CAB (preferida) | "Girthy Peavey 5150 (NO MID SCOOPING)" | wavdaddy · Full Rig, 5150 + Mesa 4x12, mezclas de micro cercano y sala | 0.012 / 0.0353 | https://www.tone3000.com/tones/girthy-peavey-5150-no-mid-scooping-mesa-4x12-closeroom-mic-blends-57004 |
+| AMP + CAB (alternativa) | "The Metal Pack (5150 rev.2 + Mesa Carbine)" | claybennett · Full Rig, 3 tonos | 0.0073 a 0.0099 / 0.0259 a 0.0364 | https://www.tone3000.com/tones/the-metal-pack-5150-rev2-mesa-carbine-67958 |
+
+- Son rig completo: apagar el bloque CAB.
+- Sin reseñas visibles en la primera; elegida por sus especificaciones y por no recortar medios.
+
+Verificado: 2026-11-18.
+
 ## Cambios
 | Fecha | Cambio | Motivo |
 |---|---|---|

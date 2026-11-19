@@ -25,6 +25,11 @@ Parte de [rhythm.md](rhythm.md) con estos cambios.
 - El Level del DS a 80 da un pequeño empujón extra en solos.
 - El delay representa el Boss DD-3 documentado en su equipo.
 
+## Alternativa TONE3000 (NAM)
+Mismas capturas que en [rhythm.md](rhythm.md#alternativa-tone3000-nam): JCM 900 4100 (obijuan, "Marshall JCM 900 Ch B w/ SD 805") y BOSS DS-2 (ratchetstrapmedia). Para solos, subir el Level de la captura unos puntos.
+
+Verificado: 2026-11-18.
+
 ## Cambios
 | Fecha | Cambio | Motivo |
 |---|---|---|

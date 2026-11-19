@@ -15,6 +15,7 @@ Repositorio de presets para la **MK-300** (modelador de amplificadores y multief
 │   └── fw73/                        Excel de modelos del firmware 73
 ├── docs/
 │   ├── CONTEXTO.md                  Cómo trabajar y mejorar presets
+│   ├── TONE3000.md                  Cómo buscar y elegir capturas NAM
 │   └── ACTUALIZAR_FIRMWARE.md       Proceso para migrar a un firmware nuevo
 └── presets/
     ├── plantilla.md                 Plantilla para presets nuevos
@@ -32,6 +33,11 @@ Estados: `borrador` → `en pruebas` → `final`
 | Dissection · Storm of the Light's Bane | [Clean](presets/dissection-storm/clean.md) | Guitarra | borrador | 73 |
 | Satyricon · Nemesis Divina | [Mother North](presets/satyricon-nemesis-divina/mother-north.md) | Guitarra | borrador | 73 |
 | Satyricon · Nemesis Divina | [Clean](presets/satyricon-nemesis-divina/clean.md) | Guitarra | borrador | 73 |
+| Opeth · Orchid | [Distorsión](presets/opeth-orchid/distorsion.md) | Guitarra | borrador | 73 |
+| Opeth · Orchid | [Clean](presets/opeth-orchid/clean.md) | Guitarra | borrador | 73 |
+
+## TONE3000 (NAM)
+Si el firmware no trae un modelo cercano al equipo real, cada preset incluye una sección **Alternativa TONE3000** con qué buscar y enlaces. Ver [docs/TONE3000.md](docs/TONE3000.md).
 
 ## Flujo de trabajo
 

@@ -27,6 +27,17 @@
 - **Con movimiento (opcional):** MOD Chorus, Speed 1.5, Depth 25, Mix 20. No está documentado para este álbum.
 - **Volumen entre presets:** si el limpio suena más fuerte que el distorsionado, Level del amp 40 (EMG activas).
 
+## Alternativa TONE3000 (NAM)
+| Bloque | Buscar en TONE3000 | Autor / tipo | ESR (Full / Lite) | Enlace |
+|---|---|---|---|---|
+| AMP | "performer 1000" (Fender Performer 1000) | joffo78 · Amp Head, solo limpio, 1 modelo "performertrain", ~204 descargas | 0.0896 / 0.0997 | https://www.tone3000.com/tones/performer-1000-31298 |
+
+- Es el único ampli documentado del álbum, pero el ESR es alto (poco preciso) y tiene un solo comentario.
+- Es amp head: usar con CAB (por ejemplo 18FD_TW1971).
+- Un comentarista dice que funciona bien con un pedal de distorsión delante y suena a transistor "afilado".
+
+Verificado: 2026-11-18.
+
 ## Cambios
 | Fecha | Cambio | Motivo |
 |---|---|---|

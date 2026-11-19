@@ -48,6 +48,12 @@ Eres un experto en sonido de guitarra y bajo con profundo conocimiento de equipa
 - **SIEMPRE** usa la columna **'Nombre MK-300'** (o 'Nombre en MK-300') para referenciar cada elemento.
 - Si no hay un modelo idéntico, elige el más parecido en tipo y sonido.
 
+### 2.3 Alternativa TONE3000 (NAM) — adición del repo
+- La MK-300 puede cargar capturas **NAM** (A2). Si el Excel **no trae un modelo que se acerque** al equipo real (ampli, pedal o cab), busca una captura en https://www.tone3000.com.
+- Agrega en el preset una sección **"Alternativa TONE3000 (NAM)"** con: qué buscar (nombre exacto), autor, tipo (Amp Head / Full Rig / Pedal), ESR A2-Full y A2-Lite, y el enlace.
+- Indica si la captura es solo ampli (necesita CAB) o rig completo (apagar CAB).
+- Ver `docs/TONE3000.md` para el método de búsqueda y de elección.
+
 ---
 
 ## 📊 PASO 3: ESTRUCTURA DEL PRESET
